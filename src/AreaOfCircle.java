@@ -10,8 +10,6 @@ public class AreaOfCircle {
 		      double radius = input.nextDouble();
 		      
 		      double area = Math.PI * Math.pow(radius, 2); //area = PI*radius*radius
-		      System.out.println("The area of circle is: " + area);
-		      
-		      System.out.println("Half area of the circle is: " + area/2);      
+		      System.out.println("The area of circle is: " + area);    
 		   }
 }
